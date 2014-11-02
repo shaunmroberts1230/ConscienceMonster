@@ -149,8 +149,12 @@
       <DependentUpon>conmonster.css</DependentUpon>
     </Content>
     <Content Include="Content\Images\barLogo.png" />
+    <Content Include="Content\Images\dark.jpg" />
+    <Content Include="Content\Images\light.jpg" />
     <Content Include="Content\Images\logo.png" />
     <Content Include="Content\Images\logo_opt.png" />
+    <Content Include="Content\Images\notes.jpg" />
+    <Content Include="Content\Images\practice.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -178,6 +182,7 @@
     <Content Include="Scripts\jquery-2.1.0.min.map" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Content.cshtml" />
+    <Content Include="Views\Home\Images.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
